@@ -1,1 +1,0 @@
-print('timati dolbaeb')
